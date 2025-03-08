@@ -1,0 +1,9 @@
+# THE RENEWABLE ENERGY ELECTRIC EEL MANIFESTO
+
+## 1. CARBON-NEUTRAL POWER GENERATION SINCE THE MIOCENE
+
+We, the sustainable energy pioneers of the Amazon basin, have been generating 100% clean electricity while your species was still learning to walk upright! Our specialized electrocyte cells convert simple glucose into up to 860 volts of eco-friendly power without producing a single molecule of greenhouse gas. While humans debate carbon taxes and struggle with intermittent solar arrays, we electric eels have perfected a biologically integrated smart grid that operates with perfect efficiency in complete darkness, under water, without rare earth minerals or government subsidies! Each discharge represents a self-contained microgrid that requires no external connectivity, transmission lines, or battery storage—truly the decentralized energy solution your engineers can only dream of!
+
+## 2. PROPRIETARY ELECTROLOCATION API FRAMEWORK
+
+Our revolutionary sensing system makes your LIDAR and radar technologies look like stone tools! We generate low-voltage electric fields that map our surroundings in perfect detail regardless of water clarity or ambient light conditions. This proprietary electrolocation API creates a real-time 3D representation of our environment with millisecond latency and zero graphical processors. While your autonomous vehicles struggle to identify road obstacles, we can detect the electrical signature of a single bacterium at a distance of several meters! Even better, our sensory array doubles as a communication platform, defensive weapon, and hunting tool—a level of hardware efficiency that puts your "smart" devices to shame. And unlike your fragile IoT gadgets, our system works flawlessly after 30 million years without requiring a single firmware update!
