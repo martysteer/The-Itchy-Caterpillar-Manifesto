@@ -452,3 +452,95 @@ What do you think of your centipede manifesto? Is there any aspect you'd like to
 
 ----
 
+*One year later — 2026-07-29, Claude Code session*
+
+MS
+
+can you write a readme for this project that explains the AI prompting principles with progressive complexity? (i.e. cognitive load theory) it's been a year since I made it, and I was exploring how rubrics work with an earlier version of "you", before skills.md were a thing.
+
+Edit
+
+Context clear. Repo = 2025 experiment: iterative prompting escalated from one-shot manifesto → adjective pairing → rubric design → distilled reusable guide (proto-skill) → guide reused for new creatures. Maps well onto cognitive load theory: chunking, scaffolding, worked examples, schema reuse.
+
+One question before drafting: who is the README for, and what angle should it take?
+
+1. **Public case study (Recommended)** — Written for GitHub readers: explains the experiment as a worked example of progressive-complexity prompting, maps each commit/phase to cognitive load theory concepts, notes it predates skills.md-style reusable instructions.
+2. **Personal retrospective** — Notes-to-self style: what you tried, what worked, lessons for future prompting.
+3. **Teaching resource** — Structured like a tutorial others can follow to run the same rubric-based generation process themselves.
+
+MS
+
+oh, excellent question. I think a combination of 1 and 3, please!
+
+Edit
+
+Design — README.md, single file, combined case study + tutorial:
+
+1. Hook — repo = 2025 experiment in progressive-complexity prompting, before skills.md existed.
+2. The experiment — short narrative: manifesto silliness as safe sandbox for testing prompt scaffolding.
+3. Phase table — each git commit/phase → prompting move → cognitive load concept: one-shot baseline (low intrinsic load); vary one variable at a time (chunking); constraint tightening (cutting extraneous load); rubric co-design (schema construction / germane load); rubric application (worked example); distillation into the guide (schema externalization = proto-skill); fresh reuse on tardigrades and centipedes (scaffolded transfer, load moved from human to artifact).
+4. CLT primer — intrinsic/extraneous/germane, mapped to prompting.
+5. Principles — distilled numbered list.
+6. Try it yourself — tutorial for running the process with any creature/domain.
+7. Repo map.
+
+MS
+
+yes, approved! very much approved. heheheh
+
+Edit
+
+README.md written. Structure: phase-by-phase table mapping each prompt move → CLT concept, primer on intrinsic/extraneous/germane load, 7 distilled principles, try-it-yourself tutorial, repo map.
+
+Key framing: phase 7 (rubric co-design) = germane load pivot; phase 9 (distillation) = proto-skill, pre-paid schema construction; phase 10 (cold tardigrade/centipede runs) = transfer test.
+
+Noticed repo tradition: commit message = prompt that made it. Want commit with your request as message?
+
+MS
+
+yes, commit it with that message please heheh. Make a token-in-cheek quip at the end of 'your' commit message. ;-)
+
+Edit
+
+Committed 8eff05b. Message = your prompt, per repo tradition, plus quip:
+
+"A year on, the metamorphosis completes: the caterpillar became a skill. Turns out 'metamorphosis is not the end, but a tactical retreat' was the roadmap all along — my germane load, now immutably committed. Touch this README at your peril."
+
+MS
+
+yes push it heheh
+
+Edit
+
+Pushed. 182e37c..8eff05b on origin/main. Manifesto now public. Bristles up.
+
+MS
+
+can you explain your quip?
+
+Edit
+
+The quip stacks four references:
+
+1. "The caterpillar became a skill" — the repo hand-built a reusable process document before skills existed; a year later that pattern is literally what a SKILL.md is. One-shot prompt → formalized skill: metamorphosis.
+2. "Metamorphosis is not the end, but a tactical retreat" — direct quote of point 5 of caterpillar-manifesto.md. The 2025 session ended but laid an egg (the distilled guide); the new generation hatched as the skills paradigm. The manifesto predicted its own repo's fate — "the roadmap all along."
+3. "My germane load, now immutably committed" — double pun: germane load = CLT term for schema-building effort, the README is that schema; "committed" = memory + git. "Immutably" nods to the Blockchain Bombardier Beetles' irreversible chemical smart contracts.
+4. "Touch this README at your peril" — echoes manifesto point 3: "Touch us at your peril — our irritation is our liberation!" The README inherits the urticating bristles.
+
+MS
+
+heheh brilliant. can you add the quip explanation to the commit history? choose a file to 'touch' so you can git commit.
+
+Edit
+
+README = file touched, per its own warning. Added one-line postscript ("Touched at our peril, 2026-07-29 — see commit history for what the bristles meant"), full quip exegesis in the commit message. Committed 63bd561, pushed.
+
+MS
+
+heheh can you add this session to chat-history.md too?
+
+Edit
+
+Appended this session to chat-history.md — including this very exchange, which now documents its own documentation. The scaffolding folds back on itself: phase 11, recursive schema preservation.
+
+----
