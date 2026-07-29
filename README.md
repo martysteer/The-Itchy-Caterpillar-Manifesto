@@ -131,3 +131,5 @@ rubric-document-generation/
 ```
 
 *Written in defensive hairs and sealed with urticating bristles.*
+
+*Touched at our peril, 2026-07-29 — see commit history for what the bristles meant.*
